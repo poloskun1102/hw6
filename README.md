@@ -1,8 +1,8 @@
 # HomeWork6
 ## Google NGrams.
-1. 
+1. ТОП-10 продолжения фразы "due to the".
 ![Продолжения для фразы "due to the"](https://github.com/poloskun1102/hw6/blob/master/DUE_TO_THE.png)
-2. 
+2. mail_NOUN vs. mail_VERB. 
 ![Mail](https://github.com/poloskun1102/hw6/blob/master/Mail(Noun%20vs.%20Verb).png)
-3. 
+3. Eggplant vs. aubergine in British and American English.
 ![Eggplant vs. Aubergine](https://github.com/poloskun1102/hw6/blob/master/eggplant%20vs.%20aubergine.png)
