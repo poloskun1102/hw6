@@ -5,4 +5,4 @@
 2. 
 ![Mail](https://github.com/poloskun1102/hw6/blob/master/Mail(Noun%20vs.%20Verb).png)
 3. 
-![Eggplant vs. Aubergine]https://github.com/poloskun1102/hw6/blob/master/eggplant%20vs.%20aubergine.png
+![Eggplant vs. Aubergine](https://github.com/poloskun1102/hw6/blob/master/eggplant%20vs.%20aubergine.png)
