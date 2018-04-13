@@ -1,2 +1,5 @@
 # HomeWork6
 ## Google NGrams.
+1. https://github.com/poloskun1102/hw6/blob/master/DUE_TO_THE.png
+2. https://github.com/poloskun1102/hw6/blob/master/Mail(Noun%20vs.%20Verb).png
+3. https://github.com/poloskun1102/hw6/blob/master/eggplant%20vs.%20aubergine.png
